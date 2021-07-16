@@ -1,3 +1,6 @@
 # os
 the first git
-# include
+# include <iostream>
+
+using namespace std;
+
